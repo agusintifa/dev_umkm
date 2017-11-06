@@ -1,0 +1,138 @@
+.footer {
+	height:24px;
+    width: 100%;
+    background-color: #efefef;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0pt;
+    margin: auto;
+    text-align: center;
+}
+
+.dataTables_filter input {
+    width: 220px;
+}
+
+.input-custom-date {
+    display: inline-block;
+    width: 95px;
+    height: 34px;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.input-custom-text {
+    display: inline-block;
+    width: 100%;
+    height: 35px;
+    padding: 8px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.table_detail th {
+    padding-right: 40px
+}
+
+.table_detail td {
+    padding: 5px 0;
+}
+
+.penalty_font {
+    font-weight: bold;
+    color: #D64541;
+}
+
+.total_font {
+    font-weight: bold;
+}
+
+tr.spaceUnder > td {
+  padding-top: 1.5em;
+  border-top: 0.5px solid;
+}
+
+.unsettle_color {
+    background-color: #E74C3C;
+}
+
+.infor_bold {
+    font-weight: bold;
+    color: red;
+    padding-left: 1px;
+}
+
+.dataTables_length label {
+    padding-right: 15px;
+}
+
+.col_small {
+    width: 20%;
+}
+
+.form_filter {
+    width: 40%;
+}
+
+.form_report {
+    width: 70%;
+}
+
+.filter_label {
+    width: 36.7%;
+}
+
+.panel_filter {
+    padding-bottom: 55px;
+}
+
+.filter_first_row {
+    padding-right: 25px;
+}
+
+tr.filter_first_row > td {
+    padding-bottom: 1em;
+}
+
+.action_group {
+    float: left;
+    margin-left: 14.8%;
+    padding-bottom: 10px;
+}
+
+.action_group button {
+    width: 91px;
+}
+
+.action_group_master {
+    float: left;
+    /*margin-left: 3.7%;*/
+    padding-bottom: 10px;
+}
+
+.action_group_master button {
+    width: 120px;
+}
